@@ -29,3 +29,13 @@
 
 
 ---
+
+![luks](https://github.com/smabramov/Host-protection/blob/c0f6534b39fe33bfea0953ce47563d6159eb5c03/jpg/luks.jpg)
+
+![luks1](https://github.com/smabramov/Host-protection/blob/c0f6534b39fe33bfea0953ce47563d6159eb5c03/jpg/luks1.jpg)
+
+![luks2](https://github.com/smabramov/Host-protection/blob/c0f6534b39fe33bfea0953ce47563d6159eb5c03/jpg/luks2.jpg)
+
+![luks3](https://github.com/smabramov/Host-protection/blob/c0f6534b39fe33bfea0953ce47563d6159eb5c03/jpg/luks3.jpg)
+
+![luks4](https://github.com/smabramov/Host-protection/blob/c0f6534b39fe33bfea0953ce47563d6159eb5c03/jpg/luks4.jpg)
